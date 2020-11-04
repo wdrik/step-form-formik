@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createMuiTheme } from '@material-ui/core/styles'; // Create a theme instance.\n\nexport const theme = createMuiTheme();","map":null,"metadata":{},"sourceType":"module"}
